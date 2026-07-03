@@ -43,7 +43,7 @@ I started in the engine room, not in a classroom — and that foundation shows i
 
 ### Beyond the keyboard
 
-🛩️ Private pilot (EASA LAPL-A) · 🎓 Accenture-INSEAD Strategy Programme (2026–2027) · 🇩🇪🇬🇧 German (native), English (full professional)
+🛩️ Private pilot (EASA LAPL-A) · 🎓 Accenture-INSEAD Strategy Programme (2026–2027) · 🇩🇪 🇬🇧 German (native), English (full professional)
 
 ---
 
