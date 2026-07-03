@@ -26,6 +26,8 @@ I started in the engine room, not in a classroom — and that foundation shows i
 - ⏱️ Compressed a strategic carve-out timeline by **30%** by resolving separation and identity risk at the architecture stage rather than in delivery
 - 💶 Own solution architecture and commercials for Microsoft consulting and system-integration deals
 
+
+
 ### Focus areas
 
 `Microsoft 365` `Microsoft Entra ID` `Conditional Access` `Zero Trust`
@@ -48,3 +50,6 @@ I started in the engine room, not in a classroom — and that foundation shows i
 ---
 
 <p align="center"><sub>Full CV → <a href="https://cv.vonscheidt.ch">cv.vonscheidt.ch</a></sub></p>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jvonscheidt&layout=compact&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=jvonscheidt&layout=compact&langs_count=4&theme=dark) 
+
