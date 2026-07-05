@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Technical Advisory &amp; Solution Architecture</strong><br>
   Microsoft Cloud · Identity · Security · Workplace · M&amp;A Transformation<br>
-  <em>De-risking complex enterprise transformations through executable architecture.</em>
+  <em>Enterprise transformations through executable architecture.</em>
 </p>
 
 <p align="center">
@@ -32,9 +32,8 @@ I started in the engine room, not in a classroom — and that foundation shows i
 ### Focus areas
 
 `Microsoft 365` `Microsoft Entra ID` `Conditional Access` `Zero Trust`
-`Microsoft Defender` `Microsoft Sentinel` `Microsoft Purview` `Intune`
-`Hybrid Identity` `Identity Lifecycle / IAM` `SCIM · SAML · OIDC/OAuth`
-`Azure Virtual Desktop` `PowerShell` 
+`Microsoft Defender` `Intune` `Hybrid Identity` `Identity Lifecycle / IAM` 
+`SCIM · SAML · OIDC/OAuth` `Azure Virtual Desktop` `PowerShell` 
 
 ### Certifications
 
