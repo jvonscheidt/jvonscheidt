@@ -51,5 +51,5 @@ I started in the engine room, not in a classroom — and that foundation shows i
 
 <p align="center"><sub>Full CV → <a href="https://cv.vonscheidt.ch">cv.vonscheidt.ch</a></sub></p>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jvonscheidt&layout=compact&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=jvonscheidt&layout=compact&langs_count=4&theme=dark) 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jvonscheidt&layout=compact&langs_count=4&theme=dark&time=now)](https://github-stats-extended.vercel.app/api/top-langs?username=jvonscheidt&layout=compact&langs_count=4&theme=dark&time=now) 
 
