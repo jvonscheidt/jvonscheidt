@@ -18,11 +18,11 @@
 
 Over a decade delivering Microsoft platform transformations, M&A separations, tenant migrations, and identity modernisation across Automotive, Consumer Goods, Media, and Financial Services in Switzerland, Germany, and Austria.
 
-I started in the engine room, not in a classroom — and that foundation shows in how I evaluate and shape deals today: architecture decisions grounded in what actually works at scale.
+I started in the engine room, not in a classroom — and that foundation shows in how I evaluate and shape solutions today: architecture decisions grounded in what actually works at scale.
 
 - :person_in_tuxedo: Senior Manager at **Avanade** (a joint venture of Accenture and Microsoft)
 - 🔍 Scoped Day 1 readiness for carve-outs spanning **35,000+ users**
-- 🛡️ Design architecture under regulatory constraint — **FINMA, DORA, TISAX**
+- 🛡️ Designed architecture under regulatory constraint — **FINMA, DORA, TISAX**
 - ⏱️ Compressed a strategic carve-out timeline by **30%** by resolving separation and identity risk at the architecture stage rather than in delivery
 - 💶 Own solution architecture and commercials for Microsoft consulting and system-integration deals
 - :building_construction: Built a fully custom IdM solution for a large Enterprise environment for a special carve-out scenario
