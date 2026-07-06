@@ -35,7 +35,7 @@ I started in the engine room, not in a classroom — and that foundation shows i
 
 ### How I build
 
-The pinned repositories are personal projects, built the way I now shape client delivery: modern engineering practice paired with agentic AI coding. Each is developed with **Claude Code** against a repo-level `CLAUDE.md` that pins the toolchain, lint, and commit conventions up front — so the AI works inside the guardrails rather than around them.
+The pinned repositories are personal projects, built the way I shape client delivery: modern engineering practice paired with agentic AI coding. Each is developed with **Claude Code** against a repo-level `CLAUDE.md` that pins the toolchain, lint, and commit conventions up front — so the AI works inside the guardrails rather than around them.
 
 - 🦀 **[m3u-viewer](https://github.com/jvonscheidt/m3u-viewer)** — a fast Rust terminal viewer for very large IPTV playlists, with Xtream and XMLTV/EPG support.
 - 📊 **[key-indicators-dashboard](https://github.com/jvonscheidt/key-indicators-dashboard)** — a Streamlit macro, volatility, and sentiment dashboard, written against numbered requirements traced back into the code.
