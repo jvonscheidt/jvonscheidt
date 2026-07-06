@@ -27,8 +27,6 @@ I started in the engine room, not in a classroom — and that foundation shows i
 - 💶 Own solution architecture and commercials for Microsoft consulting and system-integration deals
 - :building_construction: Built a fully custom IdM solution for a large Enterprise environment for a special carve-out scenario
 
-
-
 ### Focus areas
 
 `Microsoft 365` `Microsoft Entra ID` `Conditional Access` `Zero Trust`
@@ -55,7 +53,7 @@ Same instinct as the day job: let the architecture and the guardrails carry the 
 
 ### Beyond the keyboard
 
-🛩️ Private pilot (EASA LAPL-A) · 🎓 Accenture-INSEAD Strategy Programme (2026–2027) · 🇩🇪 🇬🇧 German (native), English (full professional)
+🛩️ Private pilot (EASA LAPL-A) · 🎓 Accenture-INSEAD Strategy Programme (2026–2027) · 🇩🇪 🇬🇧 German (native), English (full proficiency)
 
 ---
 
