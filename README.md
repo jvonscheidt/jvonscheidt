@@ -53,7 +53,7 @@ Same instinct as the day job: let the architecture and the guardrails carry the 
 
 ### Beyond the keyboard
 
-🛩️ Private pilot (EASA LAPL-A) · 🎓 Accenture-INSEAD Strategy Programme (2026–2027) · 🇩🇪 🇬🇧 German (native), English (full proficiency)
+🛩️ Private pilot (EASA LAPL-A) · 🎓 IMD Executive Education (2026) · 🇩🇪 🇬🇧 German (native), English (full proficiency)
 
 ---
 
