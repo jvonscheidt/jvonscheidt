@@ -1,0 +1,22 @@
+name: Vale Lint
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  vale:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Vale Lint
+        uses: errata-ai/vale-action@v2
+        with:
+          files: '["**/*.md"]'
+          fail_on_error: true
+          reporter: local
+          filter_mode: nofilter
