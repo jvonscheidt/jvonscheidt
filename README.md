@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Technical Advisory &amp; Solution Architecture</strong><br>
   Microsoft Cloud · Identity · Security · Workplace · M&amp;A Transformation<br>
-  <em>Enterprise transformations through executable architecture.</em>
+  <em>Enterprise transformations through executable architecture</em>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### About
 
-Over a decade of delivering Microsoft platform transformations, M&A separations, tenant migrations, and identity modernisation across Financial Services (Banking & Insurance), Automotive, Consumer Goods and Media in Switzerland, Germany, and Austria.
+Over a decade of delivering Microsoft platform transformations, M&A separations, tenant migrations and identity modernisation across Financial Services (Banking & Insurance), Automotive, Consumer Goods and Media in Switzerland, Germany and Austria.
 
 - 🤵 Senior Manager at **Avanade** (a joint venture of Accenture and Microsoft)
 - 🔍 Scoped Day 1 readiness for carve-outs spanning **35,000+ users**
@@ -38,7 +38,7 @@ My involvement with **Open Source Software (OSS)** started in 2007: I quickly be
 The pinned repositories are personal projects, built the way I shape client delivery: modern engineering practice paired with agentic AI coding. I build each with **Coding Agent (Claude Code, Github Copilot)** against a repo-level `AGENTS.md` that pins the architecture, toolchain, lint and commit conventions up front, so the AI works inside the guardrails rather than around them.
 
 - 🦀 **[m3u-viewer](https://github.com/jvonscheidt/m3u-viewer)** — a fast Rust terminal viewer for large IPTV playlists, with Xtream and XMLTV/EPG support.
-- 📊 **[key-indicators-dashboard](https://github.com/jvonscheidt/key-indicators-dashboard)** — a Streamlit macro, volatility, and sentiment dashboard with minimal overhead
+- 📊 **[key-indicators-dashboard](https://github.com/jvonscheidt/key-indicators-dashboard)** — a Streamlit macro, volatility and sentiment dashboard with minimal overhead
 - 🧾 **[ibkr-etaxstatement](https://github.com/jvonscheidt/ibkr-etaxstatement)** — converts Interactive Brokers exports into a standards-compliant Swiss eCH-0196 tax statement.
 
 Same instinct as the day job: let the architecture and the guardrails carry the quality, so the tooling accelerates delivery instead of eroding it.
@@ -53,7 +53,7 @@ Same instinct as the day job: let the architecture and the guardrails carry the 
 
 ### Beyond the keyboard
 
-🛩️ Private pilot (EASA LAPL-A) · 🎓 IMD Leadership Essentials — Executive Education · 🇩🇪 🇬🇧 German (native), English (full proficiency)
+🛩️ Private pilot (EASA LAPL-A) · 🎓 IMD Leadership Essentials — Executive Education · 🇩🇪 🇬🇧 German (native), English (full professional proficiency)
 
 ---
 
