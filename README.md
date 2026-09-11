@@ -25,7 +25,7 @@ Over a decade of delivering Microsoft platform transformations, M&A separations,
 - 💶 Own solution architecture and commercials for Microsoft consulting and system-integration deals
 - 🏗 Built a fully custom IdM solution for a large Enterprise environment for a special carve-out scenario
 
-My involvement with **Open Source Software (OSS)** started in 2007: I quickly became part of the German Ubuntu community and I authored and maintained technical documentation for the wiki in German and English, covering installation guides, hardware compatibility and system administration topics.
+My involvement with **Open Source Software (OSS)** started in 2007: I was part of the German Ubuntu community and authored and maintained technical documentation for the wiki in German and English, covering installation guides, hardware compatibility and system administration topics.
 
 ### Focus areas
 
@@ -35,7 +35,7 @@ My involvement with **Open Source Software (OSS)** started in 2007: I quickly be
 
 ### How I build
 
-The pinned repositories are personal projects, built the way I shape client delivery: modern engineering practice paired with agentic AI coding. I build each with **Coding Agent (Claude Code, Github Copilot)** against a repo-level `AGENTS.md` that pins the architecture, toolchain, lint and commit conventions up front, so the AI works inside the guardrails rather than around them.
+The pinned repositories are personal projects, built the way I shape client delivery: modern engineering practice paired with agentic AI coding. I build each with **Coding Harness (Claude Code, Github Copilot)** against a repo-level `AGENTS.md` that pins the architecture, toolchain, lint and commit conventions up front, so the AI works inside the guardrails rather than around them.
 
 - 🦀 **[m3u-viewer](https://github.com/jvonscheidt/m3u-viewer)** — a fast Rust terminal viewer for large IPTV playlists, with Xtream and XMLTV/EPG support.
 - 📊 **[key-indicators-dashboard](https://github.com/jvonscheidt/key-indicators-dashboard)** — a Streamlit macro, volatility and sentiment dashboard with minimal overhead
