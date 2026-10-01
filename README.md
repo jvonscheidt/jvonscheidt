@@ -31,7 +31,7 @@ My involvement with **Open Source Software (OSS)** started in 2007: I was part o
 
 `Microsoft 365` `Microsoft Entra ID` `Conditional Access` `Zero Trust`
 `Microsoft Defender` `Windows` `Linux` `Intune` `Hybrid Identity` `Identity Lifecycle / IAM` 
-`SAML · OIDC/OAuth` `GitHub` `Azure Virtual Desktop` `PowerShell` 
+`GitHub` `Azure Virtual Desktop` `PowerShell` 
 
 ### How I build
 
