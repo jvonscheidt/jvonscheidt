@@ -53,7 +53,7 @@ Same instinct as the day job: let the architecture and the guardrails carry the 
 
 ### Beyond the keyboard
 
-🛩️ Private pilot (EASA LAPL-A) · 🎓 IMD Leadership Essentials — Executive Education · 🇩🇪 🇬🇧 German (native), English (full professional proficiency)
+🛩️ Private pilot (EASA PPL-A) · 🎓 IMD Leadership Essentials — Executive Education · 🇩🇪 🇬🇧 German (native), English (full professional proficiency)
 
 ---
 
