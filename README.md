@@ -57,4 +57,4 @@ Same instinct as the day job: let the architecture and the guardrails carry the 
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jvonscheidt&layout=compact&langs_count=4&theme=dark&time=now)](https://github-stats-extended.vercel.app/api/top-langs?username=jvonscheidt&layout=compact&langs_count=4&theme=dark&time=now)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jvonscheidt&theme=github-compact&hide_border=true)](https://github.com/jvonscheidt)
