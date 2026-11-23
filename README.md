@@ -54,7 +54,3 @@ Same instinct as the day job: let the architecture and the guardrails carry the 
 ### Beyond the keyboard
 
 🛩️ Private pilot (EASA PPL-A) · 🎓 IMD Leadership Essentials — Executive Education · 🇩🇪 🇬🇧 German (native), English (full professional proficiency)
-
----
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jvonscheidt&theme=github-compact&hide_border=true)](https://github.com/jvonscheidt)
